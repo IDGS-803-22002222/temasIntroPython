@@ -1,3 +1,6 @@
-una linea Ja
-una linea Nueva
-una linea Nueva tresuna linea nueva con a
+hola : hello
+noche : nigth
+ventana : windows
+si : yes
+casa : house
+gato : cat
